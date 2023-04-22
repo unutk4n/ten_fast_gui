@@ -1,0 +1,16 @@
+tkinter
+
+
+lambda üzerinde belirli bir harf kuralı yok istediğin harfi kullanabilirsin
+
+ayrıca ne kadar doğru bir kullanım bilmiyorum ancak lambda üzerinden başka bir
+fonksiyon da çağırabiliyorsun.
+
+
+
+fontlar üzerinde çalışmalı
+
+So there is something that I was not even aware of. Threading .
+Threading is a solution for freezing moments.
+Let's say that you have a .sleep command and while it works you won't be able to
+do anything. Threading functions can prevent it. You just need to import the module and use it
