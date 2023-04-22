@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import ttk
-from pynput.keyboard import Key, Listener
+
 
 left_to_right = "E,S"
 all_area = "N,W,E,S"
